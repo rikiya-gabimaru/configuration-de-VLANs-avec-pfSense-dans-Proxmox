@@ -1,10 +1,10 @@
 ## Configuration de VLANs avec pfSense dans Proxmox
 
 ## Sommaire
-- [Licence]()
-- [Description du projet]()
-- [Outils du lab]()
-- [Étape par étape]()
+- [Licence](https://github.com/rikiya-gabimaru/configuration-de-VLANs-avec-pfSense-dans-Proxmox/blob/main/README.md#licence-)
+- [Description du projet](https://github.com/rikiya-gabimaru/configuration-de-VLANs-avec-pfSense-dans-Proxmox/blob/main/README.md#description-du-projet-)
+- [Outils du lab](https://github.com/rikiya-gabimaru/configuration-de-VLANs-avec-pfSense-dans-Proxmox/blob/main/README.md#outils-du-lab-)
+- [Étape par étape](https://github.com/rikiya-gabimaru/configuration-de-VLANs-avec-pfSense-dans-Proxmox/blob/main/README.md#%C3%A9tape-par-%C3%A9tape-)
 
 ## Licence :
 - Cette documentation est sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)
@@ -17,7 +17,6 @@ Cette procédure a pour objet de simuler le comportement d'un commutateur résea
 [Proxmox (8.2.7)](https://www.proxmox.com/)  
 [pfSense (2.7.2)](https://www.pfsense.org/)  
 [Open vSwitch (3.1.0)](https://www.openvswitch.org/)  
-[Windows 10](https://www.microsoft.com/en-us/software-download)
 
 ## Étape par étape : 
 
