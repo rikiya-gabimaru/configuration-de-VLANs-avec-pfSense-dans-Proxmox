@@ -59,6 +59,7 @@ Cette procédure a pour objet de simuler le comportement d'un commutateur résea
 - Cliquer sur `Network Device` pour ajouter la 3ème interface
 - Choisir l'OVS Bridge qui a été créé pour faire office de switch
 
+#### (ce comportement simulera le fait de connecter physiquement la 3ème carte réseau de la VM pfSense au switch dans lequel on aurait configuré les VLANs)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/08c7d2d5-9e8c-4767-9724-1d9f4f032b8d">
 </p>
