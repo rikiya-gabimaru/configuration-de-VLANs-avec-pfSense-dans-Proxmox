@@ -68,7 +68,7 @@ Cette procédure a pour objet de simuler le comportement d'un commutateur résea
 
 - Dans `Interfaces/Assignements/VLANs`
 - Cliquer sur le bouton `+ Add`
-- Dans `Parent Interfaces` choisir l'interface (OVS Bridge faisant office de switch L3)
+- Dans `Parent Interfaces` choisir l'interface (OVS Bridge faisant office de switch L2)
 - Préciser le `VLAN Tag`
 - Préciser une description si souhaité
 
