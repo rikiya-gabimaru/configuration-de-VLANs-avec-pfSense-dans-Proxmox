@@ -10,7 +10,7 @@
 - Cette documentation est sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)
 
 ## Description du projet :
-Cette procédure a pour objet de simuler le comportement d'un commutateur réseau configurer avec le standard IEEE 802.1Q dans l'environnement virtualisé qu'offre Proxmox.
+Cette procédure a pour objet de simuler le comportement d'un commutateur réseau configuré avec le standard IEEE 802.1Q dans l'environnement virtualisé qu'offre Proxmox.
 
 ## Outils du lab :
 
